@@ -1,0 +1,7 @@
+
+
+
+fn string_replace ($subject $search $replacement):
+	if '' == $subject:
+
+fn string_map ($foo $bar):
